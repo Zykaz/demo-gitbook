@@ -24,6 +24,8 @@
         "search-plus",
         "sectionx",
         "sharing-plus",
+        "prism",
+        "klipse",
         "ga"
     ],
     "pluginsConfig": {
