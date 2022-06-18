@@ -3,7 +3,7 @@
     "author": "Zykaz",
     "description": "Demo how to build and publish your GitBook for free",
     "language": "en",
-    "plugins": [  "anchor-navigation-ex", "flexible-alerts", "edit-link", "code", "copy-code-button", "theme-comscore", "ga" ],
+    "plugins": [  "anchor-navigation-ex", "flexible-alerts", "chapter-fold", "edit-link", "code", "copy-code-button", "theme-comscore", "ga" ],
     "pluginsConfig": {
       "fontSettings": {
         "theme": "night",
