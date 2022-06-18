@@ -31,7 +31,6 @@
         "hide-element",
         "graph",
         "image-captions",
-        "-disqus",
         "donate",
         "ga"
     ],
@@ -117,16 +116,13 @@
       "image-captions": {
         "caption": "Image - _CAPTION_"
       },
-      "disqus": {
-        "shortName": "zykaz"
-      },
       "donate": {
-        "wechat": "/gitbook.png",
-        "alipay": "http://blog.willin.wang/static/images/qr.png",
-        "title": "Title",
+        "wechat": "gitbook.png",
+        "alipay": "gitbook.png",
+        "title": "Buy me a coffee",
         "button": "Donate",
-        "alipayText": "支付宝捐赠",
-        "wechatText": "微信捐赠"
+        "alipayText": "AliPay",
+        "wechatText": "WeChat"
       },
       "ga": {
         "token": ""
