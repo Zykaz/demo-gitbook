@@ -1,8 +1,3 @@
-# Include-CSV
+# Topic
 
 ## Example
-{% includeCsv %}
-hoge,fuga
-a,0001
-b,002
-{% endincludeCsv %}
