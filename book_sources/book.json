@@ -29,6 +29,7 @@
         "rss",
         "ace",
         "chart",
+        "include-csv",
         "ga"
     ],
     "pluginsConfig": {
