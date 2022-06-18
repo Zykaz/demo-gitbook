@@ -4,6 +4,11 @@
 
 編輯第一章 blarblar
 
+## JS Example
+```eval-js
+[1,2,3].map(function(x) { return x + 1;})
+```
+
 ## PHP Example
 ```php
 require dirname(__FILE__).'/source/class/class_core.php';
