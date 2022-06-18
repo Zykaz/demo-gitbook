@@ -30,7 +30,6 @@
         "ace",
         "chart",
         "hide-element",
-        "include-csv",
         "ga"
     ],
     "pluginsConfig": {
