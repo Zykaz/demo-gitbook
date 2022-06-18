@@ -26,6 +26,7 @@
         "sharing-plus",
         "prism",
         "klipse",
+        "rss",
         "ga"
     ],
     "pluginsConfig": {
@@ -57,6 +58,9 @@
               "level3Icon": "fa fa-hand-o-right"
           }
       },
+      "flexible-alerts": {
+        "style": "flat"
+      },
       "edit-link": {
         "base": "https://github.com/Zykaz/demo-gitbook/edit/main/book_sources/",
         "label": "Edit"
@@ -83,6 +87,8 @@
       "sharing": {
         "facebook": false,
         "line": true,
+        "twitter": true,
+        "linkedin": true,
         "pocket": false,
         "all": []
       },
