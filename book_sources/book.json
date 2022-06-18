@@ -3,7 +3,45 @@
     "author": "Zykaz",
     "description": "Demo how to build and publish your GitBook for free",
     "language": "en",
-    "plugins": [  "anchor-navigation-ex", "flexible-alerts", "expandable-chapters-small", "edit-link", "code", "theme-comscore", "ga" ],
+    "plugins": [
+        "-highlight",
+        "-lunr",
+        "-search",
+        "-sharing",
+        "anchor-navigation-ex",
+        "flexible-alerts",
+        "expandable-chapters-small",
+        "edit-link",
+        "code",
+        "theme-comscore",
+        "favicon",
+        "github",
+        "tbfed-pagefooter",
+        "prism",
+        "search-plus",
+        "sectionx",
+        "sharing-plus",
+        "klipse",
+        "ace",
+        "chart",
+        "include-csv",
+        "disqus",
+        "donate",
+        "emphasize",
+        "graph",
+        "hide-element",
+        "katex",
+        "mermaid-gb3",
+        "puml",
+        "rss",
+        "todo",
+        "image-captions",
+        "mcqx",
+        "fbqx",
+        "spoiler",
+        "local-video",
+        "ga"
+    ],
     "pluginsConfig": {
       "fontSettings": {
         "theme": "night",
@@ -35,10 +73,82 @@
       },
       "edit-link": {
         "base": "https://github.com/Zykaz/demo-gitbook/edit/main/book_sources/",
-        "label": "Edit This Page"
+        "label": "Edit"
       },
       "code": {
         "copyButtons": true
+      },
+      "github": {
+        "url": "https://github.com/Zykaz/demo-gitbook"
+      },
+      "tbfed-pagefooter": {
+        "copyright":"Copyright &copy mapull.com 2020",
+        "modify_label": "该文件修订时间：",
+        "modify_format": "YYYY-MM-DD HH:mm:ss"
+      },
+      "prism": {
+        "css": [
+          "prismjs/themes/prism-solarizedlight.css"
+        ]
+      },
+      "sectionx": {
+        "tag": "b"
+      },
+      "sharing": {
+        "douban": false,
+        "facebook": false,
+        "google": true,
+        "hatenaBookmark": false,
+        "instapaper": false,
+        "line": true,
+        "linkedin": true,
+        "messenger": false,
+        "pocket": false,
+        "qq": false,
+        "qzone": true,
+        "stumbleupon": false,
+        "twitter": false,
+        "viber": false,
+        "vk": false,
+        "weibo": true,
+        "whatsapp": false,
+        "all": [
+          "facebook", "google", "twitter",
+          "weibo", "instapaper", "linkedin",
+          "pocket", "stumbleupon"
+        ]
+      },
+      "chart": {
+        "type": "c3"
+      },
+      "disqus": {
+        "shortName": "mapull"
+      },
+      "donate": {
+        "wechat": "/gitbook.png",
+        "alipay": "http://blog.willin.wang/static/images/qr.png",
+        "title": "默认空",
+        "button": "默认值：Donate",
+        "alipayText": "默认值：支付宝捐赠",
+        "wechatText": "默认值：微信捐赠"
+      },
+      "hide-element": {
+        "elements": [".gitbook-link"]
+      },
+      "rss": {
+        "title": "GitBook 使用教程",
+        "description": "记录 GitBook 的配置和一些插件的使用",
+        "author": "Mapull",
+        "feed_url": "https://www.mapull.com/rss",
+        "site_url": "https://www.mapull.com/",
+        "managingEditor": "mapull@123.com",
+        "webMaster": "mapull@123.com",
+        "categories": [
+          "gitbook"
+        ]
+      },
+      "image-captions": {
+        "caption": "Image - _CAPTION_"
       },
       "ga": {
         "token": ""
