@@ -1,17 +1,41 @@
-# Emphasize
+# Graph
 
 ## Example
 
-{% raw %}
+{% graph %}
+    {
+        "title":"cos(2*PI*x/2)*(1+0.5cos(2*PI*x/100))",     
+        "grid":true,
+        "xAxis": {
+            "label":"Sample",
+            "domain": [0,300]
+        },
+        "yAxis": {
+            "label":"Amplitude",
+            "domain": [-1.5,1.5]
+        },
+        "data": [
+            { "fn": "cos(2*PI*x/2)*(1+0.5cos(2*PI*x/100))"},         
+            { "fn": "(1+0.5cos(2*PI*x/100))"}
+        ]
+    }
+{% endgraph %}
 
-This text is {% em %}highlighted !{% endem %}
-
-This text is {% em %}highlighted with **markdown**!{% endem %}
-
-This text is {% em type="green" %}highlighted in green!{% endem %}
-
-This text is {% em type="red" %}highlighted in red!{% endem %}
-
-This text is {% em color="#ff0000" %}highlighted with a custom color!{% endem %}
-
-{% endraw %}
+{% graph %}
+    {
+        "title":"cos(2*PI*x/2)*(1+0.5cos(2*PI*x/100))",
+        "grid":true,
+        "xAxis": {
+            "label":"Sample",
+            "domain": [0,300]
+        },
+        "yAxis": {
+            "label":"Amplitude",
+            "domain": [-1.5,1.5]
+        },
+        "data": [
+            { "fn": "cos(2*PI*x/2)*(1+0.5cos(2*PI*x/100))"},
+            { "fn": "(1+0.5cos(2*PI*x/100))"}
+        ]
+    }
+{% endgraph %}
