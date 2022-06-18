@@ -130,8 +130,8 @@
         "shortName": "zykaz"
       },
       "donate": {
-        "wechat": "/gitbook.png",
-        "alipay": "http://blog.willin.wang/static/images/qr.png",
+        "wechat": "gitbook.png",
+        "alipay": "gitbook.png",
         "title": "Title",
         "button": "Donate",
         "alipayText": "AliPay",
