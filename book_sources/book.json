@@ -81,28 +81,10 @@
         "tag": "b"
       },
       "sharing": {
-        "douban": false,
         "facebook": false,
-        "google": true,
-        "hatenaBookmark": false,
-        "instapaper": false,
         "line": true,
-        "linkedin": true,
-        "messenger": false,
         "pocket": false,
-        "qq": false,
-        "qzone": true,
-        "stumbleupon": false,
-        "twitter": false,
-        "viber": false,
-        "vk": false,
-        "weibo": true,
-        "whatsapp": false,
-        "all": [
-          "facebook", "google", "twitter",
-          "weibo", "instapaper", "linkedin",
-          "pocket", "stumbleupon"
-        ]
+        "all": []
       },
       "chart": {
         "type": "c3"
