@@ -21,8 +21,6 @@
 {%endmcq%}
 
 ### 填空题
-{%fbq%}Testing the plugin, enter the word "hello" into the field ______, "world" into ______.{%endfbq%}
-
 {%fbq%}Testing. Please type $$hello## (hello) and $$world## (world).{%endfbq%}
 
 ### Spoiler
