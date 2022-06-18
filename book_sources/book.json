@@ -17,6 +17,9 @@
         "favicon",
         "github",
         "tbfed-pagefooter",
+        "mcqx",
+        "fbqx",
+        "spoiler",
         "ga"
     ],
     "pluginsConfig": {
@@ -59,8 +62,8 @@
         "url": "https://github.com/Zykaz/demo-gitbook"
       },
       "tbfed-pagefooter": {
-        "copyright":"Copyright &copy mapull.com 2020",
-        "modify_label": "该文件修订时间：",
+        "copyright":"Copyright &copy Zykaz 2022",
+        "modify_label": "Last Modified : ",
         "modify_format": "YYYY-MM-DD HH:mm:ss"
       },
       "prism": {
@@ -120,9 +123,7 @@
         "site_url": "https://www.mapull.com/",
         "managingEditor": "mapull@123.com",
         "webMaster": "mapull@123.com",
-        "categories": [
-          "gitbook"
-        ]
+        "categories": ["gitbook"]
       },
       "image-captions": {
         "caption": "Image - _CAPTION_"
