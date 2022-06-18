@@ -32,7 +32,6 @@
         "hide-element",
         "graph",
         "mermaid-gb3",
-        "puml",
         "ga"
     ],
     "pluginsConfig": {
