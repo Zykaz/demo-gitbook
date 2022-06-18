@@ -50,3 +50,20 @@ danger styling
 
 ### Spoiler
 “隔着门缝看人”，当我们隔着门缝看人时，看到的人大小：{%s%}和原来一样{%ends%}
+
+## 頁面分塊
+<!--sec data-title="标题" data-id="section0" data-show=true ces-->
+### 内部的标题最大从 h3开始
+
+里面可以写**任何** 的 `markdown`代码。
+
+很开心能找到想要的插件 :smile:
+<!--endsec-->
+
+<!--sec data-title="按钮触发" data-id="section1" data-show=true ces-->
+#### 内部的标题h4
+
+里面可以写**任何** 的 `markdown`代码。
+
+很开心能找到想要的插件 :laughing:
+<!--endsec-->
