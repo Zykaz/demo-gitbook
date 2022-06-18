@@ -8,7 +8,6 @@
         "-lunr",
         "-search",
         "-sharing",
-        "-version",
         "theme-comscore",
         "anchor-navigation-ex",
         "flexible-alerts",
