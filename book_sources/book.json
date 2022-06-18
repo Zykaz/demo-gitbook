@@ -32,7 +32,7 @@
         "hide-element",
         "graph",
         "image-captions",
-        "disqus",
+        "-disqus",
         "donate",
         "ga"
     ],
