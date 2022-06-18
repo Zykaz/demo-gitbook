@@ -10,10 +10,10 @@
       },
       "anchor-navigation-ex": {
           "showLevel": false,
-          "associatedWithSummary": false,
+          "associatedWithSummary": true,
           "printLog": false,
           "multipleH1": false,
-          "mode": "float",
+          "mode": "pageTop",
           "showGoTop":true,
           "float": {
               "floatIcon": "fa fa-navicon",
