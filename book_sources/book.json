@@ -30,6 +30,7 @@
         "ace",
         "chart",
         "hide-element",
+        "include-csv",
         "ga"
     ],
     "pluginsConfig": {
@@ -116,7 +117,6 @@
         "title": "GitBook Demo",
         "description": "Demo how to build and publish your GitBook for free",
         "author": "Zykaz",
-        "feed_url": "https://zykaz.github.io/demo-gitbook/rss",
         "site_url": "https://zykaz.github.io/demo-gitbook/",
         "managingEditor": "donhunt7382@gmail.com",
         "webMaster": "donhunt7382@gmail.com",
