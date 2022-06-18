@@ -30,6 +30,7 @@
         "ace",
         "chart",
         "hide-element",
+        "emphasize",
         "ga"
     ],
     "pluginsConfig": {
@@ -110,7 +111,7 @@
         "wechatText": "默认值：微信捐赠"
       },
       "hide-element": {
-        "elements": [".gitbook-link"]
+        "elements": [".gitbook-link", "span.copyright"]
       },
       "rss": {
         "title": "GitBook Demo",
