@@ -13,7 +13,7 @@
           "associatedWithSummary": true,
           "printLog": false,
           "multipleH1": false,
-          "mode": "pageTop",
+          "mode": "float",
           "showGoTop":true,
           "float": {
               "floatIcon": "fa fa-navicon",
