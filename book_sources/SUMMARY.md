@@ -6,4 +6,4 @@
   * [Chart](./articles/chapter-03.md)
   * [Topic](./articles/chapter-04.md)
   * [Graph](./articles/chapter-05.md)
-  * [Math-Katex](./articles/chapter-06.md)
+  * [Math](./articles/chapter-06.md)
