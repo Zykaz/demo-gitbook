@@ -9,12 +9,12 @@
         "-search",
         "-sharing",
         "-version",
+        "theme-comscore",
         "anchor-navigation-ex",
         "flexible-alerts",
-        "expandable-chapters-small",
+        "expandable-chapters",
         "edit-link",
         "code",
-        "theme-comscore",
         "favicon",
         "github",
         "tbfed-pagefooter",
@@ -27,6 +27,8 @@
         "prism",
         "klipse",
         "rss",
+        "ace",
+        "chart",
         "ga"
     ],
     "pluginsConfig": {
@@ -110,13 +112,13 @@
         "elements": [".gitbook-link"]
       },
       "rss": {
-        "title": "GitBook 使用教程",
-        "description": "记录 GitBook 的配置和一些插件的使用",
-        "author": "Mapull",
-        "feed_url": "https://www.mapull.com/rss",
-        "site_url": "https://www.mapull.com/",
-        "managingEditor": "mapull@123.com",
-        "webMaster": "mapull@123.com",
+        "title": "GitBook Demo",
+        "description": "Demo how to build and publish your GitBook for free",
+        "author": "Zykaz",
+        "feed_url": "https://zykaz.github.io/demo-gitbook/rss",
+        "site_url": "https://zykaz.github.io/demo-gitbook//",
+        "managingEditor": "donhunt7382@gmail.com",
+        "webMaster": "donhunt7382@gmail.com",
         "categories": ["gitbook"]
       },
       "image-captions": {
