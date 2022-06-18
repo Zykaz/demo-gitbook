@@ -5,7 +5,7 @@
 編輯第一章 blarblar
 
 ## PHP Example
-```php
+```eval-php
 require dirname(__FILE__).'/source/class/class_core.php';
 require dirname(__FILE__).'/source/class/class_load.php';
 $load = new Load;
