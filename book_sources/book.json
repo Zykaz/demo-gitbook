@@ -1,5 +1,9 @@
 {
-    "plugins": [  "anchor-navigation-ex", "edit-link", "copy-code-button", "theme-comscore", "ga" ],
+    "title": "Gitbook Demo",
+    "author": "Zykaz",
+    "description": "Demo how to build and publish your GitBook for free",
+    "language": "en",
+    "plugins": [  "anchor-navigation-ex", "edit-link", "code", "copy-code-button", "theme-comscore", "ga" ],
     "pluginsConfig": {
       "fontSettings": {
         "theme": "night",
@@ -32,6 +36,9 @@
       "edit-link": {
         "base": "https://github.com/Zykaz/demo-gitbook/edit/main/book_sources/",
         "label": "Edit This Page"
+      },
+      "code": {
+        "copyButtons": true
       },
       "ga": {
         "token": ""
