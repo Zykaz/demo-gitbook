@@ -124,10 +124,10 @@
       "donate": {
         "wechat": "/gitbook.png",
         "alipay": "http://blog.willin.wang/static/images/qr.png",
-        "title": "默认空",
-        "button": "默认值：Donate",
-        "alipayText": "默认值：支付宝捐赠",
-        "wechatText": "默认值：微信捐赠"
+        "title": "Title",
+        "button": "Donate",
+        "alipayText": "支付宝捐赠",
+        "wechatText": "微信捐赠"
       },
       "ga": {
         "token": ""
