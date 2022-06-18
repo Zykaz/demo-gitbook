@@ -8,6 +8,7 @@
         "-lunr",
         "-search",
         "-sharing",
+        "-version",
         "anchor-navigation-ex",
         "flexible-alerts",
         "expandable-chapters-small",
@@ -20,6 +21,9 @@
         "mcqx",
         "fbqx",
         "spoiler",
+        "search-plus",
+        "sectionx",
+        "sharing-plus",
         "ga"
     ],
     "pluginsConfig": {
