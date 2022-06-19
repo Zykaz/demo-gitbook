@@ -5,4 +5,3 @@
   * [Flexible-Alert](./articles/chapter-02.md)
   * [Chart](./articles/chapter-03.md)
   * [Topic](./articles/chapter-04.md)
-  * [Graph](./articles/chapter-05.md)
