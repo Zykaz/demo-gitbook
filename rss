@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[GitBook Demo]]></title>
+        <description><![CDATA[Demo how to build and publish your GitBook for free]]></description>
+        <link>https://zykaz.github.io/demo-gitbook/</link>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Tue, 11 Oct 2022 08:57:26 GMT</lastBuildDate>
+        <atom:link href="https://zykaz.github.io/demo-gitbook/rss" rel="self" type="application/rss+xml"/>
+        <author><![CDATA[Zykaz]]></author>
+        <managingEditor><![CDATA[donhunt7382@gmail.com]]></managingEditor>
+        <webMaster><![CDATA[donhunt7382@gmail.com]]></webMaster>
+        <category><![CDATA[gitbook]]></category>
+        <item>
+            <title><![CDATA[關於本書 📚]]></title>
+            <description><![CDATA[示範如何用 GitHub Pages + GitHub Actions 免費建立自己的 GitBook。]]></description>
+            <link>https://zykaz.github.io/demo-gitbook/</link>
+            <guid isPermaLink="true">https://zykaz.github.io/demo-gitbook/</guid>
+            <dc:creator><![CDATA[Zykaz]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[第一章]]></title>
+            <description><![CDATA[這是第一章的內容]]></description>
+            <link>https://zykaz.github.io/demo-gitbook/articles/chapter-01.html</link>
+            <guid isPermaLink="true">https://zykaz.github.io/demo-gitbook/articles/chapter-01.html</guid>
+            <dc:creator><![CDATA[Zykaz]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[Flexible-Alert]]></title>
+            <description><![CDATA[Info styling]]></description>
+            <link>https://zykaz.github.io/demo-gitbook/articles/chapter-02.html</link>
+            <guid isPermaLink="true">https://zykaz.github.io/demo-gitbook/articles/chapter-02.html</guid>
+            <dc:creator><![CDATA[Zykaz]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[Chart]]></title>
+            <description><![CDATA[Test for code block]]></description>
+            <link>https://zykaz.github.io/demo-gitbook/articles/chapter-03.html</link>
+            <guid isPermaLink="true">https://zykaz.github.io/demo-gitbook/articles/chapter-03.html</guid>
+            <dc:creator><![CDATA[Zykaz]]></dc:creator>
+        </item>
+        <item>
+            <title><![CDATA[Topic]]></title>
+            <description><![CDATA[{%mcq ans="o4"%}
+{%title%} 卧薪尝胆说的哪位历史人物?
+{%o1%} 夫差
+{%o2%} 范蠡
+{%o3%} 管仲
+{%o4%} 勾践
+{%endmcq%}]]></description>
+            <link>https://zykaz.github.io/demo-gitbook/articles/chapter-04.html</link>
+            <guid isPermaLink="true">https://zykaz.github.io/demo-gitbook/articles/chapter-04.html</guid>
+            <dc:creator><![CDATA[Zykaz]]></dc:creator>
+        </item>
+    </channel>
+</rss>
